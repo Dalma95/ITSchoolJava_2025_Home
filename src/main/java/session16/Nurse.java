@@ -8,6 +8,6 @@ public class Nurse extends Person {
 
     @Override
     public void performDuties() {
-        super.performDuties();
+        System.out.println("Performs nurse duties.");
     }
 }
